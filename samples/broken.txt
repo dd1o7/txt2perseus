@@ -1,0 +1,11 @@
+Question 1 (Easy)
+Which quantity is measured in hertz?
+
+A. Frequency
+B. Wavelength [Incorrect : Wavelength is measured in metres.]
+
+Question 2 (Easy)
+What is the SI unit of force?
+
+A. Newton [Incorrect : This is the right unit, but it is marked wrong here on purpose.]
+B. Joule [Incorrect : The joule is the unit of energy.]

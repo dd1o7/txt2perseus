@@ -1,0 +1,33 @@
+Question 1 (Easy)
+A wave on a string has a frequency of $50$ Hz and a wavelength of $2$ m.
+What is the speed of the wave?
+[Waves - Wave Speed]
+
+A. $25$ m/s [Incorrect : This divides frequency by wavelength. Speed is the product $v = f\lambda$, not the ratio.]
+B. $100$ m/s [Correct : Wave speed is $v = f\lambda = 50 \times 2 = 100$ m/s.]
+C. $52$ m/s [Incorrect : Adding frequency and wavelength mixes quantities with different units.]
+D. $0.04$ m/s [Incorrect : This is $\lambda / f$, which has units of seconds times metres, not a speed.]
+
+Question 2 (Medium)
+The length of a simple pendulum is made four times larger.
+What happens to its time period?
+[Oscillations - Simple Pendulum]
+
+A) It halves. {Incorrect. The period grows with length, so it cannot get smaller.}
+B) It doubles. {Correct. Since $T = 2\pi\sqrt{L/g}$, multiplying $L$ by $4$ multiplies $T$ by $\sqrt{4} = 2$.}
+C) It becomes four times larger. {Incorrect. $T$ depends on $\sqrt{L}$, not on $L$ directly.}
+D) It stays the same. {Incorrect. The period depends on length, so changing $L$ changes $T$.}
+
+Question 3 (Hard)
+A block of mass $2$ kg is attached to a spring with spring constant $200$ N/m.
+What is the angular frequency of its oscillation?
+[Oscillations - Spring-Mass System]
+
+(A) $100$ rad/s
+Incorrect. This is $k/m$ without the square root.
+(B) $0.1$ rad/s
+Incorrect. This is $\sqrt{m/k}$, the ratio inverted.
+(C) $10$ rad/s
+Correct. For a spring-mass system $\omega = \sqrt{k/m} = \sqrt{200/2} = \sqrt{100} = 10$ rad/s.
+(D) $400$ rad/s
+Incorrect. This multiplies $k$ by $m$ instead of dividing.

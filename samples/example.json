@@ -1,0 +1,185 @@
+[
+  {
+    "question": {
+      "content": "A wave on a string has a frequency of $50$ Hz and a wavelength of $2$ m. What is the speed of the wave?\n\n[[☃ radio 1]]\n\n",
+      "images": {},
+      "widgets": {
+        "radio 1": {
+          "type": "radio",
+          "alignment": "default",
+          "static": false,
+          "graded": true,
+          "options": {
+            "choices": [
+              {
+                "content": "$25$ m/s",
+                "rationale": "This divides frequency by wavelength. Speed is the product $v = f\\lambda$, not the ratio.",
+                "correct": false,
+                "id": "radio-choice-0"
+              },
+              {
+                "content": "$100$ m/s",
+                "rationale": "Wave speed is $v = f\\lambda = 50 \\times 2 = 100$ m/s.",
+                "correct": true,
+                "id": "radio-choice-1"
+              },
+              {
+                "content": "$52$ m/s",
+                "rationale": "Adding frequency and wavelength mixes quantities with different units.",
+                "correct": false,
+                "id": "radio-choice-2"
+              },
+              {
+                "content": "$0.04$ m/s",
+                "rationale": "This is $\\lambda / f$, which has units of seconds times metres, not a speed.",
+                "correct": false,
+                "id": "radio-choice-3"
+              }
+            ],
+            "randomize": true,
+            "multipleSelect": false,
+            "countChoices": false,
+            "hasNoneOfTheAbove": false,
+            "deselectEnabled": false,
+            "numCorrect": 1
+          },
+          "version": {
+            "major": 3,
+            "minor": 0
+          }
+        }
+      }
+    },
+    "answerArea": {
+      "calculator": false,
+      "financialCalculatorMonthlyPayment": false,
+      "financialCalculatorTotalAmount": false,
+      "financialCalculatorTimeToPayOff": false,
+      "periodicTable": false,
+      "periodicTableWithKey": false
+    },
+    "hints": []
+  },
+  {
+    "question": {
+      "content": "The length of a simple pendulum is made four times larger. What happens to its time period?\n\n[[☃ radio 1]]\n\n",
+      "images": {},
+      "widgets": {
+        "radio 1": {
+          "type": "radio",
+          "alignment": "default",
+          "static": false,
+          "graded": true,
+          "options": {
+            "choices": [
+              {
+                "content": "It halves.",
+                "rationale": "The period grows with length, so it cannot get smaller.",
+                "correct": false,
+                "id": "radio-choice-0"
+              },
+              {
+                "content": "It doubles.",
+                "rationale": "Since $T = 2\\pi\\sqrt{L/g}$, multiplying $L$ by $4$ multiplies $T$ by $\\sqrt{4} = 2$.",
+                "correct": true,
+                "id": "radio-choice-1"
+              },
+              {
+                "content": "It becomes four times larger.",
+                "rationale": "$T$ depends on $\\sqrt{L}$, not on $L$ directly.",
+                "correct": false,
+                "id": "radio-choice-2"
+              },
+              {
+                "content": "It stays the same.",
+                "rationale": "The period depends on length, so changing $L$ changes $T$.",
+                "correct": false,
+                "id": "radio-choice-3"
+              }
+            ],
+            "randomize": true,
+            "multipleSelect": false,
+            "countChoices": false,
+            "hasNoneOfTheAbove": false,
+            "deselectEnabled": false,
+            "numCorrect": 1
+          },
+          "version": {
+            "major": 3,
+            "minor": 0
+          }
+        }
+      }
+    },
+    "answerArea": {
+      "calculator": false,
+      "financialCalculatorMonthlyPayment": false,
+      "financialCalculatorTotalAmount": false,
+      "financialCalculatorTimeToPayOff": false,
+      "periodicTable": false,
+      "periodicTableWithKey": false
+    },
+    "hints": []
+  },
+  {
+    "question": {
+      "content": "A block of mass $2$ kg is attached to a spring with spring constant $200$ N/m. What is the angular frequency of its oscillation?\n\n[[☃ radio 1]]\n\n",
+      "images": {},
+      "widgets": {
+        "radio 1": {
+          "type": "radio",
+          "alignment": "default",
+          "static": false,
+          "graded": true,
+          "options": {
+            "choices": [
+              {
+                "content": "$100$ rad/s",
+                "rationale": "This is $k/m$ without the square root.",
+                "correct": false,
+                "id": "radio-choice-0"
+              },
+              {
+                "content": "$0.1$ rad/s",
+                "rationale": "This is $\\sqrt{m/k}$, the ratio inverted.",
+                "correct": false,
+                "id": "radio-choice-1"
+              },
+              {
+                "content": "$10$ rad/s",
+                "rationale": "For a spring-mass system $\\omega = \\sqrt{k/m} = \\sqrt{200/2} = \\sqrt{100} = 10$ rad/s.",
+                "correct": true,
+                "id": "radio-choice-2"
+              },
+              {
+                "content": "$400$ rad/s",
+                "rationale": "This multiplies $k$ by $m$ instead of dividing.",
+                "correct": false,
+                "id": "radio-choice-3"
+              }
+            ],
+            "randomize": true,
+            "multipleSelect": false,
+            "countChoices": false,
+            "hasNoneOfTheAbove": false,
+            "deselectEnabled": false,
+            "numCorrect": 1
+          },
+          "version": {
+            "major": 3,
+            "minor": 0
+          }
+        }
+      }
+    },
+    "answerArea": {
+      "calculator": false,
+      "financialCalculatorMonthlyPayment": false,
+      "financialCalculatorTotalAmount": false,
+      "financialCalculatorTimeToPayOff": false,
+      "periodicTable": false,
+      "periodicTableWithKey": false
+    },
+    "hints": []
+  }
+]
